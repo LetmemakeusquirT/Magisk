@@ -482,6 +482,9 @@
 
 ### v14.5 (1455)
 
+
+
+
 - [Daemon] Moved internal path to /sbin/.core, new image mountpoint is /sbin/.core/img
 - [MagiskSU] Support switching package name, used when Magisk Manager is hidden
 - [MagiskHide] Add temporary /magisk removal
